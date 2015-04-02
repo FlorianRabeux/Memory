@@ -1,0 +1,132 @@
+#p1 {
+	left: 0px;
+}
+#p2 {
+	left: 200px;
+}
+#p3 {
+	left: 400px;
+}
+#p4 {
+	left: 600px;
+}
+#p5 {
+	left: 800px;
+}
+#p6 {
+	left: 1000px;
+}
+#p7 {
+	left: 1200px;
+}
+#p8 {
+	left: 0px;
+	top: 370px;
+}
+#p9 {
+	left: 200px;
+	top: 370px;
+}
+#p10 {
+	left: 400px;
+	top: 370px;
+}
+#p11 {
+	left: 600px;
+	top: 370px;
+}
+#p12 {
+	left: 800px;
+	top: 370px;
+}
+#p13 {
+	left: 1000px;
+	top: 370px;
+}
+#p14 {
+	left: 1200px;
+	top: 370px;
+}
+
+.carte {
+			height: 280px;
+			width: 192px;
+			margin: 0;
+			margin-top: 50px;
+			margin-left: 10px;
+      		padding: 0;
+     	    position: absolute;
+		}
+
+BODY {
+  background: #ffffff;
+  color: #000000;
+  width: 100%;
+  background-image : url('fond.jpg'); 
+  background-repeat: no-repeat ;
+  background-position:top; 
+ 
+}
+	   
+.cardX0Y0 {background: url('cartes.png') 0 0;}
+.cardX0Y0 {background: url('cartes.png') 0 0;}
+.cardX1Y0 {background: url('cartes.png') 0px -280px;}
+.cardX0Y1 {background: url('cartes.png') -192px 0px;}
+.cardX0Y2 {background: url('cartes.png') -384px 0px;}
+.cardX0Y3 {background: url('cartes.png') -576px 0px;}
+.cardX0Y4 {background: url('cartes.png') -768px 0px;}
+.cardX0Y5 {background: url('cartes.png') -960px 0px;}
+.cardX0Y6 {background: url('cartes.png') -1152px 0px;}
+.cardX0Y7 {background: url('cartes.png') -1344px 0px;}
+.cardX0Y8 {background: url('cartes.png') -1536px 0px;}
+.cardX0Y9 {background: url('cartes.png') -1728px 0px;}
+.cardX0Y10 {background: url('cartes.png') -1920px 0px;}
+.cardX0Y11{background: url('cartes.png') -2112px 0px;}
+.cardX0Y12 {background: url('cartes.png') -2304px 0px;}
+
+.cardX1Y0 {background: url('cartes.png') 0px -280px;}
+.cardX1Y1 {background: url('cartes.png') -192px -280px;}
+.cardX1Y2 {background: url('cartes.png') -384px -280px;}
+.cardX1Y3 {background: url('cartes.png') -576px -280px;}
+.cardX1Y4 {background: url('cartes.png') -768px -280px;}
+.cardX1Y5 {background: url('cartes.png') -960px -280px;}
+.cardX1Y6 {background: url('cartes.png') -1152px -280px;}
+.cardX1Y7 {background: url('cartes.png') -1344px -280px;}
+.cardX1Y8 {background: url('cartes.png') -1536px -280px;}
+.cardX1Y9 {background: url('cartes.png') -1728px -280px;}
+.cardX1Y10 {background: url('cartes.png') -1920px -280px;}
+.cardX1Y11{background: url('cartes.png') -2112px -280px;}
+.cardX1Y12 {background: url('cartes.png') -2304px -280px;}
+
+.cardX2Y0 {background: url('cartes.png') 0 -560px;}
+.cardX2Y1 {background: url('cartes.png') -192px -560px;}
+.cardX2Y2 {background: url('cartes.png') -384px -560px;}
+.cardX2Y3 {background: url('cartes.png') -576px -560px;}
+.cardX2Y4 {background: url('cartes.png') -768px -560px;}
+.cardX2Y5 {background: url('cartes.png') -960px -560px;}
+.cardX2Y6 {background: url('cartes.png') -1152px -560px;}
+.cardX2Y7 {background: url('cartes.png') -1344px -560px;}
+.cardX2Y8 {background: url('cartes.png') -1536px -560px;}
+.cardX2Y9 {background: url('cartes.png') -1728px -560px;}
+.cardX2Y10 {background: url('cartes.png') -1920px -560px;}
+.cardX2Y11{background: url('cartes.png') -2112px -560px;}
+.cardX2Y12 {background: url('cartes.png') -2304px -560px;}
+
+.cardX3Y0 {background: url('cartes.png') 0 -840px;}
+.cardX3Y1 {background: url('cartes.png') -192px -840px;}
+.cardX3Y2 {background: url('cartes.png') -384px -840px;}
+.cardX3Y3 {background: url('cartes.png') -576px -840px;}
+.cardX3Y4 {background: url('cartes.png') -768px -840px;}
+.cardX3Y5 {background: url('cartes.png') -960px -840px;}
+.cardX3Y6 {background: url('cartes.png') -1152px -840px;}
+.cardX3Y7 {background: url('cartes.png') -1344px -840px;}
+.cardX3Y8 {background: url('cartes.png') -1536px -840px;}
+.cardX3Y9 {background: url('cartes.png') -1728px -840px;}
+.cardX3Y10 {background: url('cartes.png') -1920px -840px;}
+.cardX3Y11{background: url('cartes.png') -2112px -840px;}
+.cardX3Y12{background: url('cartes.png') -2304px -840px;}
+
+.cardX4Y0 {background: url('cartes.png') 0 -1120px;}
+.cardX4Y1 {background: url('cartes.png') -192px -1120px;}
+.cardX4Y2 {background: url('cartes.png') -384px -1120px;}
+.back {background: url('cartes.png') -384px -1117px;}	

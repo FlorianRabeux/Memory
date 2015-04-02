@@ -1,0 +1,40 @@
+/* Sticky footer styles
+      -------------------------------------------------- */
+    html,
+    body {
+      height: 100%;
+      /* The html and body elements cannot have any padding or margin. */
+    }
+
+    /* Wrapper for page content to push down footer */
+    #wrap {
+      min-height: 100%;
+      height: auto !important;
+      height: 100%;
+      /* Negative indent footer by it's height */
+      margin-bottom: +10px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+    }
+
+    /* Set the fixed height of the footer here */
+    #push,
+    #footer {
+      height: 100px;
+    }
+    /* Custom page CSS
+      -------------------------------------------------- */
+    @font-face {
+      font-family: "quizz";
+      src: url(horsal.ttf);
+    }
+    body {
+      font-family: quizz;
+      font-size: 1em;
+      background-color: black;
+      color: red;
+    }
+    span {
+      font-size: 8em;
+    }

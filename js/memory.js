@@ -205,3 +205,4 @@ function getId(monObj) {
 	chaine = chaine.substr(1);
 	return chaine -1;
 }
+
